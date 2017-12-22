@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstAdd</string>
+    <string name="input_some_text">input som text</string>
+    <string name="clean">Clean</string>
+    <string name="print">Print</string>
+    <string name="press_print">Press print button</string>
+    <string name="helo_world">Hello World</string>
+</resources>
